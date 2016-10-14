@@ -1,0 +1,4 @@
+NestedMultiDict([('check', 'a'), ('check', 'b'), ('name', 'Bob'), ('name', 'Vasya'), ('email', 'vasya@example.com')])
+['a', 'b']
+vasya@example.com
+Bob

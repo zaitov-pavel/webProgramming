@@ -1,0 +1,12 @@
+Session ID: a628f9a5f15e48f99b06d3a710791499
+{'Deutchland': 'Sebastian Vettel',
+ 'Great Britain': 'Jenson Button',
+ 'Suomi': 'Kimi Räikkönen',
+ '_accessed_time': 1475907168.6420162,
+ '_creation_time': 1475907168.6420162}
+Check session
+OK
+Traceback (most recent call last):
+  File "0.session.py", line 27, in <module>
+    assert session2['Russian'] == 'Alexey Popov'
+KeyError: 'Russian'

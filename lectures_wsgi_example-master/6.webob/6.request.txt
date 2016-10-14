@@ -1,0 +1,2 @@
+<RequestCookies (dict-like) with values {'bar': '2', 'foo': 'abcdef', 'session_id': '9999999'}>
+abcdef

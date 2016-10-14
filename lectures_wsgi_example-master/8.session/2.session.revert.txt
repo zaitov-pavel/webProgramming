@@ -1,0 +1,20 @@
+Session ID: 2887074c36af4aadad354a79bbdb2cc4
+{'Deutchland': 'Sebastian Vettel',
+ 'Great Britain': 'Jenson Button',
+ 'Suomi': 'Kimi Räikkönen',
+ '_accessed_time': 1475907344.1409602,
+ '_creation_time': 1475907344.1409602}
+Modified session
+Session ID: 2887074c36af4aadad354a79bbdb2cc4
+{'Deutchland': 'Michael Schumacher',
+ 'España': 'Fernando Alonso',
+ 'Great Britain': 'Lewis Hamilton',
+ '_accessed_time': 1475907344.1411998,
+ '_creation_time': 1475907344.1409602}
+Revert session
+Session ID: 2887074c36af4aadad354a79bbdb2cc4
+{'Deutchland': 'Sebastian Vettel',
+ 'Great Britain': 'Jenson Button',
+ 'Suomi': 'Kimi Räikkönen',
+ '_accessed_time': 1475907344.1411998,
+ '_creation_time': 1475907344.1409602}

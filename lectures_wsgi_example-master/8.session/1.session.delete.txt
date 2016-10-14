@@ -1,0 +1,9 @@
+Session ID: f0f6d2a4e02841e49d97ee5ba7ac3985
+{'Deutchland': 'Sebastian Vettel',
+ 'Great Britain': 'Jenson Button',
+ 'Suomi': 'Kimi Räikkönen',
+ '_accessed_time': 1475907306.4009516,
+ '_creation_time': 1475907306.4009516}
+Delete session
+Session ID: f0f6d2a4e02841e49d97ee5ba7ac3985
+{}
